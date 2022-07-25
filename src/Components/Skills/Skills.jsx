@@ -16,7 +16,6 @@ const Skills = () => {
               <BsShieldFillCheck className='experience__details-icon'/>
               <div>
               <h4>HTML</h4>
-              <small className="text-light">Experienced</small>
             
               </div>
               
@@ -25,7 +24,6 @@ const Skills = () => {
               <BsShieldFillCheck className='experience__details-icon'/>
               <div>
               <h4>CSS</h4>
-              <small className="text-light">Intermidiate</small>
               </div>
               
             </article>
@@ -35,7 +33,6 @@ const Skills = () => {
               <div>
               
               <h4>JavaScript</h4>
-              <small className="text-light">Experienced</small>
               </div>
             </article>
             <article className="experience__details">
@@ -43,7 +40,7 @@ const Skills = () => {
               
               <div>
               <h4>Bootstrap</h4>
-              <small className="text-light">Experienced</small>
+            
               </div>
               
             </article>
@@ -51,7 +48,7 @@ const Skills = () => {
               <BsShieldFillCheck className='experience__details-icon'/>
               <div>
               <h4>React</h4>
-              <small className="text-light">Experienced</small>
+              
               </div>
             </article>
           </div>
@@ -65,7 +62,7 @@ const Skills = () => {
 
               <div>
               <h4>Node</h4>
-              <small className="text-light">Experienced</small>
+              
               
               </div>
             </article>
@@ -73,7 +70,7 @@ const Skills = () => {
               <BsShieldFillCheck />
               <div>
               <h4>MongoDB</h4>
-              <small className="text-light">Intermidiate</small>
+              
               
               </div>
             </article>
@@ -81,7 +78,7 @@ const Skills = () => {
               <BsShieldFillCheck className='experience__details-icon'/>
               <div>
               <h4>Python</h4>
-              <small className="text-light">Experienced</small>
+              
               </div>
             </article>
 
@@ -89,14 +86,14 @@ const Skills = () => {
               <BsShieldFillCheck className='experience__details-icon'/>
               <div>
               <h4>MySQL</h4>
-              <small className="text-light">Basic</small>
+              
               </div>
             </article>
             <article className="experience__details">
               <BsShieldFillCheck className='experience__details-icon'/>
               <div>
               <h4>Express</h4>
-              <small className="text-light">Experienced</small>
+              
               </div>
               
             </article>
