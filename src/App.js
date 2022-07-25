@@ -1,6 +1,6 @@
 import "./App.css";
 import { useState, useEffect } from "react";
-// import Loader from './Loader';
+
 import ClimbingBoxLoader from "react-spinners/ClimbingBoxLoader";
 import Header from "./Components/Header/Header";
 import Nav from "./Components/Nav/Nav";

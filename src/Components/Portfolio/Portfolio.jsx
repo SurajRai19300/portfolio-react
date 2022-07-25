@@ -2,8 +2,6 @@ import React from "react";
 import "./Portfolio.css";
 import IMG1 from "../../assets/p.png";
 import IMG2 from "../../assets/portfolio.png";
-import IMG3 from "../../assets/portfolio.png";
-import IMG4 from "../../assets/portfolio.png";
 
 // import Swiper core and required modules
 import { Pagination } from "swiper";
